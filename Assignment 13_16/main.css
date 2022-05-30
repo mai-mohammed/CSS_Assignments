@@ -1,0 +1,21 @@
+div div .title,
+div .title {
+  color: red;
+}
+
+div p,
+.title {
+  color: green;
+}
+
+.Assig1 div {
+    margin: 15px 0 ; 
+    padding : 20px ;
+background-color: rgb(95, 18, 18);
+color:white ; 
+width: fit-content;
+max-width: 400px;
+max-height: 30px ;
+overflow :hidden;
+
+}

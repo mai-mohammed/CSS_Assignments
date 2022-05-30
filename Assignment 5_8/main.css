@@ -1,0 +1,90 @@
+/*Assignment 1*/
+.assi-1 div {
+  width: 500px;
+  margin: auto;
+  margin-bottom: 10px;
+  padding: 20px;
+  background-color: hsl(271 76% 53%);
+  background-color: rgb(138 44 226);
+  background-color: hsl(271 76% 53%);
+}
+
+.assi-1 .assign-1-shape-2 {
+  background-color: rgb(138 44 226 / 50%);
+}
+
+.assi-1 .assign-1-shape-3 {
+  background-color: rgb(138 44 226 / 10%);
+}
+
+/*Assignment 2*/
+.assi-2 div {
+  width: 400px;
+  height: 400px;
+  background-image: url(css-assignment-5-8.png);
+  background-color: darkgray;
+}
+.assi-2 .assign-2-shape-1 {
+  background-repeat: no-repeat;
+}
+.assi-2 .assign-2-shape-2 {
+  background-repeat: repeat-y;
+}
+.assi-2 .assign-2-shape-3 {
+  background-repeat: repeat-x;
+}
+.assi-2 .assign-2-shape-4 {
+  background-repeat: repeat;
+}
+
+/*Assignment 3*/
+
+.assi-3 div {
+  width: 400px;
+  height: 400px;
+  background-image: url(css-assignment-5-8.png);
+  background-color: chartreuse;
+}
+.assi-3 .assign-3-shape-1 {
+  background-repeat: no-repeat;
+}
+.assi-3 .assign-3-shape-2 {
+  background-repeat: repeat-y;
+  background-position: right top;
+}
+.assi-3 .assign-3-shape-3 {
+  background-repeat: repeat-x;
+  background-position: left bottom;
+}
+.assi-3 .assign-3-shape-4 {
+  background-repeat: repeat;
+}
+
+/* Assignment 4 */
+.assi-4 div {
+  width: 400px;
+  height: 400px;
+  background-image: url(css-assignment-5-8.png);
+  background-color: aquamarine;
+}
+
+.assi-4 .assign-4-shape-1{
+    background-repeat: no-repeat;
+    background-size: 80% 80%  ;
+}
+
+.assi-4 .assign-4-shape-2{
+    background-repeat: no-repeat;
+    background-size:80% 100%;
+    background-position: right;
+}
+.assi-4 .assign-4-shape-3{
+    background-repeat: no-repeat;
+    background-size:100% 80%;
+    background-position: bottom;
+}
+.assi-4 .assign-4-shape-4{
+    background-repeat: no-repeat;
+    background-size:50% 50%;
+    background-position: right bottom;
+}

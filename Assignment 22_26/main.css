@@ -1,0 +1,35 @@
+.assig1 {
+    padding: 20px;
+    border: 2px rgb(42, 136, 165) solid ; 
+    width : 400px ;
+}
+p{
+    text-align: center;
+    padding: inherit ;
+    border: 2px solid ; 
+    border-color: inherit;
+    background-color: #EEE ; 
+}
+
+/* Assignment 2  */
+
+.assig2_1{
+    font-family: 'Open Sans', sans-serif;
+    font-weight:300 ;
+    font-style: italic;
+    font-size: 2.5rem;
+}
+
+.assig2_2{
+    font-family: 'Cairo', sans-serif;
+    font-weight:700 ;
+    font-size: 2rem;
+
+}
+
+.assig2_3{
+    font-family: 'Jomhuria', cursive;
+    font-weight:400 ;
+    font-size: 1.5rem;
+
+}
